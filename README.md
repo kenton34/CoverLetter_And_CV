@@ -25,7 +25,7 @@ EDUCATION:
 
 Santa Clara University, School of Law, Santa Clara, California; (#4 IP Law School, USNews.com); J.D. degree; G.P.A. 3.1; class rank 8/43.
 
-  Honors:
+	Honors:
   
   	- SANTA CLARA LAW REVIEW, member Volume 34 Board of Editors.
   
@@ -39,7 +39,7 @@ Santa Clara University, School of Law, Santa Clara, California; (#4 IP Law Schoo
 		       
 University of Houston, Cullen College of Engineering, Houston, Texas; B.S. degree, Electrical Engineering; G.P.A. 3.2 (cumulative undergraduate).
 
-  Honors (undergraduate):
+	Honors (undergraduate):
   
   	- Presidential Scholarship		- Honors Program
 			
@@ -59,7 +59,8 @@ LEGAL PUBLICATIONS/PRESENTATIONS:
 	
 	(5)  An Examiner's Perspective on Procedures of the Patent Office, SCU (April 14, 1992).
 
-PROFESSIONAL COMMITTEES: 
+	PROFESSIONAL COMMITTEES: 
+
 	Chair, Public Relations/Education, Austin IPLA (2016-2018).
 
 	Judge, National Moot Court; Concordia University (2004-2013).
