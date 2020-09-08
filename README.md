@@ -25,7 +25,8 @@ EDUCATION:
 
 Santa Clara University, School of Law, Santa Clara, California; (#4 IP Law School, USNews.com); J.D. degree; G.P.A. 3.1; class rank 8/43.
 
-  Honors: 
+  Honors:
+  
   	- SANTA CLARA LAW REVIEW, member Volume 34 Board of Editors.
   
 	- Founder, Ethics Review Committee.
@@ -39,6 +40,7 @@ Santa Clara University, School of Law, Santa Clara, California; (#4 IP Law Schoo
 University of Houston, Cullen College of Engineering, Houston, Texas; B.S. degree, Electrical Engineering; G.P.A. 3.2 (cumulative undergraduate).
 
   Honors (undergraduate):
+  
   	- Presidential Scholarship		- Honors Program
 			
 	- Honors Seminars			- Dean's List
