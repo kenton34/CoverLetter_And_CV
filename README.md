@@ -25,21 +25,23 @@ EDUCATION:
 
 Santa Clara University, School of Law, Santa Clara, California; (#4 IP Law School, USNews.com); J.D. degree; G.P.A. 3.1; class rank 8/43.
 
-  Honors - SANTA CLARA LAW REVIEW, member Volume 34 Board of Editors.
+  Honors: 
+  	- SANTA CLARA LAW REVIEW, member Volume 34 Board of Editors.
   
-	 - Founder, Ethics Review Committee.
+	- Founder, Ethics Review Committee.
 		      
-	 - Dean's List, each year.
+	- Dean's List, each year.
 		       
-	 - Moot Court Associate; participated in Moot Court Competitions.
+	- Moot Court Associate; participated in Moot Court Competitions.
 		       
-	 - Board of Directors, Graduate Students Association.
+	- Board of Directors, Graduate Students Association.
 		       
 University of Houston, Cullen College of Engineering, Houston, Texas; B.S. degree, Electrical Engineering; G.P.A. 3.2 (cumulative undergraduate).
 
-  Honors (undergraduate) - Presidential Scholarship		- Honors Program
+  Honors (undergraduate):
+  	- Presidential Scholarship		- Honors Program
 			
-	        	 - Honors Seminars			- Dean's List
+	- Honors Seminars			- Dean's List
 			
 LEGAL PUBLICATIONS/PRESENTATIONS:
 
@@ -55,13 +57,14 @@ LEGAL PUBLICATIONS/PRESENTATIONS:
 	
 	(5)  An Examiner's Perspective on Procedures of the Patent Office, SCU (April 14, 1992).
 
-PROFESSIONAL COMMITTEES: Chair, Public Relations/Education, Austin IPLA (2016-2018).
+PROFESSIONAL COMMITTEES: 
+	Chair, Public Relations/Education, Austin IPLA (2016-2018).
 
-			 Judge, National Moot Court; Concordia University (2004-2013).
+	Judge, National Moot Court; Concordia University (2004-2013).
 			 
-                         Chair, Membership, IEEE (1994-1996).
+        Chair, Membership, IEEE (1994-1996).
 			 
-			 City Council, Board of Adjustment, Corpus Christi (2020-present).
+	City Council, Board of Adjustment, Corpus Christi (2020-present).
 
 PATENT LAW EXPERIENCE:
 
