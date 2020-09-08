@@ -16,39 +16,30 @@ With sincere regards,
  
 Kenton R. Mullins
 
-________________________________________________Begin Resume__________________________________________________________
+Begin Resume___________________________________________________________
 
 KENTON RICHARD MULLINS
-
-Reg. No. 36,331; CA Bar No. 170630
-
-Mobile: 714.814.7777; Data: 270.721.7777
+Reg. No. 36,331; CA Bar No. 170630; Mobile: 714.814.7777; Data: 270.721.7777
 
 EDUCATION:
 
-Santa Clara University, School of Law, Santa Clara, California; (#4 IP Law School, USNews.com).
-
-J.D. degree; G.P.A. 3.1; class rank 8/43.
+Santa Clara University, School of Law, Santa Clara, California; (#4 IP Law School, USNews.com); J.D. degree; G.P.A. 3.1; class rank 8/43.
 
   Honors - SANTA CLARA LAW REVIEW, member Volume 34 Board of Editors.
   
-	 	      - Founder, Ethics Review Committee.
+	 - Founder, Ethics Review Committee.
 		      
-		       - Dean's List, each year.
+	 - Dean's List, each year.
 		       
-		       - Moot Court Associate; participated in Moot Court Competitions.
+	 - Moot Court Associate; participated in Moot Court Competitions.
 		       
-	  	       - Board of Directors, Graduate Students Association.
+	 - Board of Directors, Graduate Students Association.
 		       
-University of Houston, Cullen College of Engineering, Houston, Texas.
+University of Houston, Cullen College of Engineering, Houston, Texas; B.S. degree, Electrical Engineering; G.P.A. 3.2 (cumulative undergraduate).
 
-B.S. degree, Electrical Engineering; G.P.A. 3.2 (cumulative undergraduate).
-
-  Honors (undergraduate):
-  
-	        	- Presidential Scholarship				- Honors Program
+  Honors (undergraduate) - Presidential Scholarship		- Honors Program
 			
-	        	- Honors Seminars					- Dean's List
+	        	 - Honors Seminars			- Dean's List
 			
 LEGAL PUBLICATIONS/PRESENTATIONS:
 
