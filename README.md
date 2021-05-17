@@ -73,19 +73,17 @@ LEGAL PUBLICATIONS/PRESENTATIONS:
 
 PATENT LAW EXPERIENCE:
 
-McDonnell Boehnen Hulbert & Berghoff, Austin, TX; Counsel - Patent transactions and high-tech litigation strategy, standard essential patents, target device analysis and claim chart generation, patent assertions in district courts, deal negotiation and patent/trademark portfolio management.  Firm clients: Alphabet and AMD. 9/2019-present.
+McDonnell Boehnen Hulbert & Berghoff, fka Toler Law Group pre-merger, Austin, TX; Of Counsel - Patent and trademark portfolio management; transactions and high-tech litigation strategy including target device analysis, claim chart generation, and patent assertions in district courts; deal negotiations involving IP portfolio acquisitions, product licensing, and complex term sheets and instruments; Inter Partes Reviews (IPRs) before the Patent Trial and Appeal Board (PTAB); and trademark opposition administrative proceedings. Firm clients: Alphabet, AMD, Ameriprise, AT&T, Google, IBM, Microsoft, Motorola, Qualcomm, SanDisk, and Western Digital. 2/2014-present.
 
-Toler Law Group, Austin, TX; Counsel - Patent/trademark prosecution, IPRs, oppositions, and IP monetization for AT&T, Ameriprise, Boeing, IBM, Microsoft, Motorola, Qualcomm, SanDisk and Western Digital. 2/2014-9/2019.
+Stout, Uxa, Buyan & Mullins, Irvine, CA; Partner - Patent and trademark prosecution including client interviews, application drafting, examiner interviews, office action responses, and PTAB appeals; district court patent infringement litigation; IPRs; licensing; trademark cancellations; invalidity and noninfringement opinions; and due diligence for 3M, Allergan, Applied, Boeing, Edison, J&J, Macronix, Medtronic, Shell Oil, and Toshiba. 6/1995-2/2014.
 
-Stout, Uxa, Buyan & Mullins, Irvine, CA; Member - Patent/trademark prosecution, litigation, IPRs, licensing and due diligence for 3M, Allergan, Applied, Boeing, Edison, J&J, Macronix, Medtronic, Shell Oil and Toshiba. 6/1995-2/2014.
-
-Snell & Wilmer, fka Price, Gess & Ubell, Irvine, CA; Associate - IP prosecution for Panasonic. 3/1994-6/1995.
+Snell & Wilmer, fka Price, Gess & Ubell pre-merger, Irvine, CA; Associate - Invention mining, patentability searches, trademark availability studies, district court patent litigation support, and IP prosecution for Panasonic. 3/1994-6/1995.
 
 GOVERNMENT/ENGINEERING EXPERIENCE:
 
-U.S. Patent and Trademark Office, Crystal City, VA; Patent Examiner - Prepared detailed Office Actions relating to IC cards, financial transactions, Software as a Service (SaaS) apps, complex computer networks, semiconductor devices, optical code readers, control systems and mobile communication devices. 2/1990-2/1991.
+U.S. Patent and Trademark Office, Crystal City, VA; Patent Examiner - Prepared detailed Office Actions relating to IC cards, financial transactions, Software as a Service (SaaS) apps, complex computer networks, semiconductor devices, optical code readers, control systems and mobile communication devices. 1/1990-1/1991.
 
 Halliburton, fka Baroid, Houston, TX; Co-Op Engineer - Created assembly language algorithm to interact with device hardware for metrics monitoring and drilling guidance.  The routine was used extensively worldwide. 5/1989-9/1989.
 
-Dow, Freeport, TX; Internship – Assisted Shintech Inc. with design, fabrication, control-system monitoring and maintenance of process plants and refinery plants. 5/1986-8/1986, 5/1987-8/1987 and 5/1988-8/1988.
+Dow, Freeport, TX; Internship – Assisted Shintech with design, fabrication, control-system monitoring and maintenance of process plants and refinery plants. 5/1986-8/1986, 5/1987-8/1987 and 5/1988-8/1988.
 
